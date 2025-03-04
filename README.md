@@ -1,6 +1,6 @@
 # Engineering Programming Tools
 
-This repository is a collection of programming tools I've developed to assist with various engineering processes. The tools provided here aim to simplify common tasks in engineering by leveraging Python programming techniques.
+This repository is a collection of programming tools I've developed to assist with various engineering processes. The tools provided here aim to simplify common tasks in engineering by leveraging Python and C programming techniques.
 
 ## Contents
 
