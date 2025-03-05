@@ -1,3 +1,70 @@
+The following equations were entered:
+2x -1y + 9z = -2
+1x + 0y -4z = 10
+-3x + 4y -3z = 5
+
+
+This is the coefficients matrix:
+[ 2.000 -1.000 9.000 ]
+[ 1.000 0.000 -4.000 ]
+[ -3.000 4.000 -3.000 ]
+
+This is the results matrix:
+[ -2.000 ]
+[ 10.000 ]
+[ 5.000 ]
+
+The matrix was scaled.
+
+This is the coefficients matrix:
+[ 1.000 -0.500 4.500 ]
+[ 1.000 0.000 -4.000 ]
+[ 1.000 -1.333 1.000 ]
+
+This is the results matrix:
+[ -1.000 ]
+[ 10.000 ]
+[ -1.667 ]
+
+The system has a unique solution.
+Scaling...
+
+The line 1 was multiplied by a factor = 1.000 and subtracted from the line 2
+
+The line 1 was multiplied by a factor = 1.000 and subtracted from the line 3
+
+This is the coefficients matrix:
+[ 1.000 -0.500 4.500 ]
+[ 0.000 0.500 -8.500 ]
+[ 0.000 -0.833 -3.500 ]
+
+This is the results matrix:
+[ -1.000 ]
+[ 11.000 ]
+[ -0.667 ]
+
+The line 2 was divided by a factor = 0.500
+
+The line 2 was multiplied by a factor = -0.500 and subtracted from the line 1
+
+The line 2 was multiplied by a factor = -0.833 and subtracted from the line 3
+
+This is the coefficients matrix:
+[ 1.000 0.000 -4.000 ]
+[ 0.000 1.000 -17.000 ]
+[ 0.000 0.000 -17.667 ]
+
+This is the results matrix:
+[ 10.000 ]
+[ 22.000 ]
+[ 17.667 ]
+
+The line 3 was divided by a factor = -17.667
+
+The line 3 was multiplied by a factor = -4.000 and subtracted from the line 1
+
+The line 3 was multiplied by a factor = -17.000 and subtracted from the line 2
+
 This is the coefficients matrix:
 [ 1.000 0.000 0.000 ]
 [ 0.000 1.000 0.000 ]
