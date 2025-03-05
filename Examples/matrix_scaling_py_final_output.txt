@@ -1,0 +1,9 @@
+The matrix was scaled. The solution is:
+
+| x |  | 0.27451 |
+| y |  | 0.19608 |
+
+or
+
+x = 0.27451
+y = 0.19608
