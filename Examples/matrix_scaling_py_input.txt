@@ -1,0 +1,13 @@
+2  # Number of variables in the system
+2  # Number of equations in the system
+
+x  # first variable
+y  # second variable
+
+3  # coefficient of x in the equation 1
+6  # coefficient of y in the equation 1
+2  # result of the equation 1
+
+8  # coefficient of x in the equation 2
+-1  # coefficient of y in the equation 2
+2  # result of the equation 2
