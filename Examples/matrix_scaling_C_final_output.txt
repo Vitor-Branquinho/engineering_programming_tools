@@ -1,0 +1,15 @@
+This is the coefficients matrix:
+[ 1.000 0.000 0.000 ]
+[ 0.000 1.000 0.000 ]
+[ -0.000 -0.000 1.000 ]
+
+This is the results matrix:
+[ 6.000 ]
+[ 5.000 ]
+[ -1.000 ]
+
+
+Then, the solution for the system is:
+x = 6.000
+y = 5.000
+z = -1.000
