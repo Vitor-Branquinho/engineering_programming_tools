@@ -4,6 +4,10 @@ This repository is a collection of programming tools I've developed to assist wi
 
 ## Contents
 
+This file is divided in two subfolders - C and Python - because I am developing and upgrading my knowledge on those languages, cointaining, until now:
+C - matrix scaling, matrix multiplication;
+Python - matrix scaling. 
+
 ### 1. Matrix Scaling Tool
 
 This tool is designed to scale matrices using **Gaussian Elimination**. Below are the key features:
